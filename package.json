@@ -9,7 +9,7 @@
     "watch": "ng build --watch --configuration development",
     "test": "ng test --code-coverage",
     "test:headless": "ng test --code-coverage --configuration production",
-    "deploy": "ng deploy --base-href=/angular-ghpages/"
+    "deploy": "ng deploy --base-href=/angular-ghpages/ --no-silent"
   },
   "private": true,
   "dependencies": {
