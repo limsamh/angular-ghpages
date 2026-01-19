@@ -1,6 +1,6 @@
 {
   "name": "angular-ghpages",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -11,7 +11,7 @@
     "test:headless": "ng test --code-coverage --configuration production",
     "deploy": "ng deploy --base-href=/angular-ghpages/ --no-silent"
   },
-   "prettier": {
+  "prettier": {
     "printWidth": 100,
     "singleQuote": true,
     "overrides": [
