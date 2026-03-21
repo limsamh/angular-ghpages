@@ -1,6 +1,6 @@
 # angular-ghpages
 
-This is en empty Angular 20 project deployed on [Github pages](https://limsamh.github.io/angular-ghpages/)
+This is en empty Angular 21 project deployed on [Github pages](https://limsamh.github.io/angular-ghpages/)
 
 ## Development server
 
